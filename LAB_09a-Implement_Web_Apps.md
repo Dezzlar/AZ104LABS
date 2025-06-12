@@ -25,7 +25,8 @@ Your organization is interested in Azure Web apps for hosting your company websi
 
 ## Architecture diagram
 
-![Diagram of the tasks.](../media/az104-lab09a-architecture.png)
+![az104-lab09a-architecture (1)](https://github.com/user-attachments/assets/e97dfe90-0f1f-41ee-ae01-bb0c9b268db5)
+
 
 ## Job skills
 
