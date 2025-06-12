@@ -9,15 +9,14 @@ lab:
 
 ## Lab introduction
 
-In this lab, you learn about Azure web apps. You learn to configure a web app to display a Hello World application in an external GitHub repository. You learn to create a staging slot and swap with the production slot. You also learn about autoscaling to accommodate demand changes.
+In this lab, I learned about Azure web apps. I configured a web app to display a Hello World application from an external GitHub repository. I also created a staging slot and swapped it with the production slot. Additionally, I explored autoscaling to accommodate changes in demand.
 
-This lab requires an Azure subscription. Your subscription type may affect the availability of features in this lab. You may change the region, but the steps are written using East US.
-
+This lab required an Azure subscription. I understand that the type of subscription may affect the availability of certain features. While I could choose a different region, I followed the steps using East US.
 ## Estimated timing: 20 minutes
 
 ## Lab scenario
 
-Your organization is interested in Azure Web apps for hosting your company websites. The websites are currently hosted in an on-premises data center. The websites are running on Windows servers using the PHP runtime stack. The hardware is nearing end-of-life and will soon need to be replaced. Your organization wants to avoid new hardware costs by using Azure to host the websites. 
+An organization is interested in Azure Web apps for hosting the company websites. The websites are currently hosted in an on-premises data center. The websites are running on Windows servers using the PHP runtime stack. The hardware is nearing end-of-life and will soon need to be replaced. the organization wants to avoid new hardware costs by using Azure to host the websites. 
 
 ## Interactive lab simulations
 
@@ -38,7 +37,7 @@ Your organization is interested in Azure Web apps for hosting your company websi
 
 ## Task 1: Create and configure an Azure web app
 
-In this task, you create an Azure web app. Azure App Services is a Platform As a Service (PAAS) solution for web, mobile, and other web-based applications. Azure web apps is part Azure App Services hosting most runtime environments, such as PHP, Java, and .NET. The app service plan that you select determines the web app compute, storage, and features. 
+In this task, I created an Azure web app. Azure App Services is a Platform As a Service (PAAS) solution for web, mobile, and other web-based applications. Azure web apps is part Azure App Services hosting most runtime environments, such as PHP, Java, and .NET. The app service plan that you select determines the web app compute, storage, and features. 
 
 1. Sign in to the **Azure portal** - `https://portal.azure.com`.
 
